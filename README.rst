@@ -1,7 +1,7 @@
 EroSmb
 ============
 
-.. figure:: https://raw.githubusercontent.com/viktor02/EroSmb/master/img/logo.png
+.. figure:: /img/logo.png
 
 EroSmb is a fast smb network scanner. You can easily enumerate windows machines in your local network using this tool.
 
