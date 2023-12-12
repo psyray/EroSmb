@@ -20,17 +20,9 @@ This program shows you which machines are currently online in your network, thei
 Installation
 ------------
 
-- Install from Pypi 
-
-Run ::
-
-  pip install erosmb
-
-
-- From sources
-
 Clone the repository and run ::
 
+  git checkout inputfile-and-progressbar
   pip install .
 
 
